@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.pyc
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+*.pt
+*.onnx
+*.engine
+*.zip

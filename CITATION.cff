@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: STRIDE-Net
+message: >-
+  If you use STRIDE-Net or associated materials in your research, please cite
+  the corresponding peer-reviewed publication when it becomes available, and
+  reference this repository for model weights and configuration metadata.
+type: software
+authors:
+  - name: STRIDE-Net authors
+    affiliation: Auburn University
+repository-code: 'https://github.com/sse-auburn/stride-net'
+license: MIT
+date-released: '2026-05-04'
